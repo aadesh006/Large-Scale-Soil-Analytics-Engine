@@ -1,0 +1,13 @@
+# Big Data Engine & GPU Accelerator Bridge
+pyspark==3.5.1
+
+# Interactive Visual Frontend
+streamlit
+
+# Core Data Science & Analytics
+pandas
+numpy
+matplotlib
+
+# Jupyter Notebook Backend for VS Code
+ipykernel
