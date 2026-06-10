@@ -1,1 +1,11 @@
+# Ignore the large RAPIDS Spark accelerator jar
+*.jar
+rapids-4-spark_*.jar
+
+# Ignore python virtual environment
+.venv/
+env/
+
+# Ignore temporary Spark directory and large data files
+/spark_temp/
 *.csv
