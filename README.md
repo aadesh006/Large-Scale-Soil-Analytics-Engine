@@ -1,6 +1,6 @@
 # Large-Scale Soil Analytics Engine
 
-A distributed data processing and machine learning pipeline built on **Apache Spark**, designed to handle billion-row scale agricultural sensor datasets. Built for the **Technex 2025 — 1 Billion Row Challenge (Final Round)** at Indian Institute for Technology BHU.
+A distributed data processing and machine learning pipeline built on **Apache Spark**, designed to handle billion-row scale agricultural sensor datasets. Built for the **Technex 2025 — 1 Billion Row Challenge (Final Round)** at Indian Institute of Technology BHU.
 
 ---
 
